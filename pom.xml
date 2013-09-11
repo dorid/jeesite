@@ -100,7 +100,7 @@
 		<repository>
 			<id>activiti-repos</id>
 			<name>Activiti Repository</name>
-			<url>https://maven.alfresco.com/nexus/content/groups/public</url>
+			<url>http://maven.kafeitu.me/nexus/content/groups/public/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
